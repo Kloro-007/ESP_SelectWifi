@@ -1,0 +1,6 @@
+{
+    "List": [
+        {"ssid":"Test1", "rssi":-10},
+        {"ssid":"Test2", "rssi":0}
+    ]
+}
